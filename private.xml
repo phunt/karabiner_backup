@@ -21,6 +21,12 @@
     <autogen>__KeyToKey__ KeyCode::DASHBOARD, KeyCode::F4</autogen>
     <autogen>__KeyToKey__ KeyCode::F4, ModifierFlag::FN,  KeyCode::DASHBOARD</autogen>
 
+    <autogen>__KeyToKey__ ConsumerKeyCode::KEYBOARDLIGHT_LOW, KeyCode::F5</autogen>
+    <autogen>__KeyToKey__ KeyCode::F5, ModifierFlag::FN,  ConsumerKeyCode::KEYBOARDLIGHT_LOW</autogen>
+
+    <autogen>__KeyToKey__ ConsumerKeyCode::KEYBOARDLIGHT_HIGH, KeyCode::F6</autogen>
+    <autogen>__KeyToKey__ KeyCode::F6, ModifierFlag::FN,  ConsumerKeyCode::KEYBOARDLIGHT_HIGH</autogen>
+    
     <autogen>__KeyToKey__ ConsumerKeyCode::MUSIC_PREV, KeyCode::F7</autogen>
     <autogen>__KeyToKey__ KeyCode::F7, ModifierFlag::FN,  ConsumerKeyCode::MUSIC_PREV</autogen>
 
@@ -34,10 +40,10 @@
     <autogen>__KeyToKey__ KeyCode::F10, ModifierFlag::FN, ConsumerKeyCode::VOLUME_MUTE</autogen>
 
     <autogen>__KeyToKey__ ConsumerKeyCode::VOLUME_DOWN, KeyCode::F11</autogen>
-    <autogen>__KeyToKey__ KeyCode::F1, ModifierFlag::FN,  ConsumerKeyCode::VOLUME_DOWN</autogen>
+    <autogen>__KeyToKey__ KeyCode::F11, ModifierFlag::FN,  ConsumerKeyCode::VOLUME_DOWN</autogen>
 
     <autogen>__KeyToKey__ ConsumerKeyCode::VOLUME_UP, KeyCode::F12</autogen>
-    <autogen>__KeyToKey__ KeyCode::F1, ModifierFlag::FN,  ConsumerKeyCode::VOLUME_UP</autogen>
+    <autogen>__KeyToKey__ KeyCode::F12, ModifierFlag::FN,  ConsumerKeyCode::VOLUME_UP</autogen>
   </item>
 
 </root>
